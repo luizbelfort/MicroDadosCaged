@@ -1,0 +1,27 @@
+﻿CREATE TABLE [dbo].[Table_data]
+(
+    [competência] NVARCHAR(10) NULL, 
+    [região] INT NULL, 
+    [uf] INT NULL, 
+    [município] NVARCHAR(10) NULL, 
+    [seção] NVARCHAR(10) NULL, 
+    [subclasse] NVARCHAR(10) NULL, 
+    [saldomovimentação] INT NULL, 
+    [cbo2002ocupação] NVARCHAR(10) NULL, 
+    [categoria] NVARCHAR(10) NULL, 
+    [graudeinstrução] NVARCHAR(10) NULL, 
+    [idade] INT NULL, 
+    [horascontratuais] INT NULL, 
+    [raçacor] INT NULL, 
+    [sexo] INT NULL, 
+    [tipoempregador] INT NULL, 
+    [tipoestabelecimento] INT NULL, 
+    [tipomovimentação] INT NULL, 
+    [tipodedeficiência] INT NULL, 
+    [indtrabintermitente] INT NULL, 
+    [indtrabparcial] INT NULL, 
+    [salário] FLOAT NULL, 
+    [tamestabjan] INT NULL, 
+    [indicadoraprendiz] INT NULL, 
+    [fonte] INT NULL
+)
