@@ -1,0 +1,10 @@
+D:\luizf\source\repos\MicroDadosCaged\bin\Debug\MicroDadosCaged.dacpac
+D:\luizf\source\repos\MicroDadosCaged\bin\Debug\MicroDadosCaged.dll
+D:\luizf\source\repos\MicroDadosCaged\bin\Debug\MicroDadosCaged.pdb
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\MicroDadosCaged.sqlprojAssemblyReference.cache
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\Model.xml
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\refactor.xml
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\postdeploy.sql
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\predeploy.sql
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\MicroDadosCaged.dll
+D:\luizf\source\repos\MicroDadosCaged\obj\Debug\MicroDadosCaged.pdb
